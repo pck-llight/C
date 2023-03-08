@@ -1,4 +1,3 @@
-# fac
-## sds
-# sds
-[aaa](https://google.com)
+# C언어 연습 하기
+## 팩토리얼 출력기
+
