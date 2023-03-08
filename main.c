@@ -16,3 +16,5 @@ int fac(int n){
 	for (int i = 1; i <= n; i++) {
 		sum *= i;
 	}
+        return sum;
+}
